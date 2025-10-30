@@ -1,0 +1,28 @@
+body {
+  background-color: snow;
+}
+
+#header {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.nav-pills {
+  --bs-nav-pills-link-active-bg: SeaGreen;
+  --bs-nav-link-color: SeaGreen;
+  --bs-nav-link-hover-color: MediumSeaGreen;
+}
+
+#body {
+  padding-top: 20px;
+}
+
+.about-me {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.photo-caption {
+  text-align: center;
+}
+
